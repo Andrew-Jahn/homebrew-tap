@@ -1,8 +1,8 @@
 cask "soulance-os" do
-  version "0.1.4"
+  version "0.1.5"
 
-  url "https://github.com/Andrew-Jahn/soulance-os-releases/releases/download/soulance-v0.1.4/Soulance-OS-0.1.4-arm64.dmg"
-  sha256 "e151e205a40226d51a4a6044652135887d07fdb0a9a1e48aa7c3c6092899c2f3"
+  url "https://github.com/Andrew-Jahn/soulance-os-releases/releases/download/soulance-v0.1.5/Soulance-OS-0.1.5-arm64.dmg"
+  sha256 "a01a1003a54cc79fb7c92bf32fb159f7a08df927fc4020d92dd621587cd71be8"
   depends_on arch: :arm64
 
   name "Soulance OS"
